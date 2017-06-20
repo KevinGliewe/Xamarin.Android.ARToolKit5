@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARToolKit", "ARToolKit\ARToolKit.csproj", "{BE68037F-E9C4-41A9-AF28-64CC9B1858F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARToolKit.Binding", "ARToolKit.Binding\ARToolKit.Binding.csproj", "{F800F47C-12BB-4EB9-AFA0-F9ED013F4B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE68037F-E9C4-41A9-AF28-64CC9B1858F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE68037F-E9C4-41A9-AF28-64CC9B1858F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE68037F-E9C4-41A9-AF28-64CC9B1858F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE68037F-E9C4-41A9-AF28-64CC9B1858F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F800F47C-12BB-4EB9-AFA0-F9ED013F4B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F800F47C-12BB-4EB9-AFA0-F9ED013F4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F800F47C-12BB-4EB9-AFA0-F9ED013F4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F800F47C-12BB-4EB9-AFA0-F9ED013F4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
